@@ -3,4 +3,7 @@ displaying messages
 syntax: hello
 
 the who command
-tells who are the users
+tells who the users are
+
+the uname command
+gives details of th eoperating system
